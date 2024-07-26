@@ -3,14 +3,15 @@
 # --------------------- #
 
 imports = [
-    # "intensive_apps",
 ]
 
 [managers.system]
-items =[
+items = [
+  # important
   "git",
   "stow",
   "flatpak",
+  # terminal stuff
   "fish",
   "zsh",
   "alacritty",
@@ -21,38 +22,46 @@ items =[
   "ripgrep",
   "fzf",
   "zoxide",
+  # xorg
   "xorg-server",
   "xorg-xinit",
   "xorg-xrandr",
   "xf86-input-libinput",
   "xorg-xrdb",
   "xorg-xset",
+  # extra graphical stuff
   "feh",
   "picom-simpleanims-git",
   "materia-gtk-theme",
   "bibata-cursor-theme-bin",
   "papirus-icon-theme",
   "papirus-folders-git",
+  # fonts
   "noto-fonts",
+  "noto-fonts-cjk",
   "ttf-roboto",
   "ttf-jetbrains-mono",
   "ttf-jetbrains-mono-nerd",
   "ttf-apple-emoji",
+  # other apps
   "visual-studio-code-bin",
   "nemo",
   "brave-bin",
   "obs-studio",
-  "pavucontrol"
+  "pavucontrol",
+  # language stuff
+  "nodejs",
+  "clang",
+  "python",
+  "rust"
 ]
-
 
 [managers.flatpak]
 items = [
-    "org.polymc.PolyMC"
+  "org.polymc.PolyMC"
 ]
 
 # Packages to be installed via Cargo.
 [managers.cargo]
 items = [
-    # "bacon",
 ]
