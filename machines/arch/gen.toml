@@ -1,0 +1,26 @@
+# --------------------- #
+#    Generation File    #
+# --------------------- #
+
+# Other generation files to import. (Example: intensive_apps -> ~/.config/rebos/imports/intensive_apps.toml)
+imports = [
+    # "intensive_apps",
+]
+
+# Packages to be installed via the native package manager.
+[managers.system]
+items = [
+    # "git",
+]
+
+# Packages to be installed via Flatpak.
+[managers.flatpak]
+items = [
+    # "com.github.tchx84.Flatseal",
+]
+
+# Packages to be installed via Cargo.
+[managers.cargo]
+items = [
+    # "bacon",
+]

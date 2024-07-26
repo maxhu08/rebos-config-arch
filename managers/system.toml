@@ -1,0 +1,21 @@
+
+# ----------------------------------- #
+#    Package Manager Configuration    #
+# ----------------------------------- #
+
+add = "paru -S --needed --noconfirm #:?"
+remove = "paru -Rns --needed --noconfirm #:?"
+sync = "paru -Syy --needed --noconfirm"
+upgrade = "paru -Syyu --needed --noconfirm"
+
+# ------------------------------- #
+#    Additional configuration.    #
+# ------------------------------- #
+
+plural_name = "system packages"
+
+hook_name = "system_packages"
+
+[config]
+many_args = true
+
