@@ -47,8 +47,11 @@ items = [
   "visual-studio-code-bin",
   "nemo",
   "brave-bin",
-  "obs-studio",
   "pavucontrol",
+  # capturing
+  "obs-studio",
+  "scrot",
+  "flameshot",
   # language stuff
   "nodejs",
   "clang",
