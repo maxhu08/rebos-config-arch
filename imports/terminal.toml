@@ -1,0 +1,13 @@
+[managers.system]
+items = [
+  "fish",
+  "zsh",
+  "alacritty",
+  "kitty",
+  "tmux",
+  "vim",
+  "neovim",
+  "ripgrep",
+  "fzf",
+  "zoxide"
+]

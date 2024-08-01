@@ -1,0 +1,7 @@
+[managers.system]
+items = [
+  "visual-studio-code-bin",
+  "nemo",
+  "brave-bin",
+  "pavucontrol"
+]

@@ -1,0 +1,6 @@
+[managers.system]
+items = [
+  "git",
+  "stow",
+  "flatpak"
+]

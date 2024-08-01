@@ -1,0 +1,7 @@
+[managers.system]
+items = [
+  "nodejs",
+  "clang",
+  "python",
+  "rust"
+]

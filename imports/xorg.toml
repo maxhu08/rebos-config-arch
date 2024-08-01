@@ -1,0 +1,9 @@
+[managers.system]
+items = [
+  "xorg-server",
+  "xorg-xinit",
+  "xorg-xrandr",
+  "xf86-input-libinput",
+  "xorg-xrdb",
+  "xorg-xset"
+]

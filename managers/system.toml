@@ -4,7 +4,7 @@
 # ----------------------------------- #
 
 add = "paru -S --needed --noconfirm #:?"
-remove = "paru -Rns --needed --noconfirm #:?"
+remove = "paru -Rns --noconfirm #:?"
 sync = "paru -Syy --needed --noconfirm"
 upgrade = "paru -Syyu --needed --noconfirm"
 

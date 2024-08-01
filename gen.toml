@@ -3,59 +3,18 @@
 # --------------------- #
 
 imports = [
+  "important",
+  "terminal",
+  "fonts",
+  "xorg",
+  "languages",
+  "graphical",
+  "misc-apps",
+  "capture",
 ]
 
 [managers.system]
 items = [
-  # important
-  "git",
-  "stow",
-  # terminal stuff
-  "fish",
-  "zsh",
-  "alacritty",
-  "kitty",
-  "tmux",
-  "vim",
-  "neovim",
-  "ripgrep",
-  "fzf",
-  "zoxide",
-  # xorg
-  "xorg-server",
-  "xorg-xinit",
-  "xorg-xrandr",
-  "xf86-input-libinput",
-  "xorg-xrdb",
-  "xorg-xset",
-  # extra graphical stuff
-  "feh",
-  "picom-simpleanims-git",
-  "materia-gtk-theme",
-  "bibata-cursor-theme-bin",
-  "papirus-icon-theme",
-  "papirus-folders-git",
-  # fonts
-  "noto-fonts",
-  "noto-fonts-cjk",
-  "ttf-roboto",
-  "ttf-jetbrains-mono",
-  "ttf-jetbrains-mono-nerd",
-  "ttf-apple-emoji",
-  # other apps
-  "visual-studio-code-bin",
-  "nemo",
-  "brave-bin",
-  "pavucontrol",
-  # capturing
-  "obs-studio",
-  "scrot",
-  "flameshot",
-  # language stuff
-  "nodejs",
-  "clang",
-  "python",
-  "rust"
 ]
 
 [managers.flatpak]
