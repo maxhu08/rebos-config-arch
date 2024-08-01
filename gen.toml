@@ -10,7 +10,6 @@ items = [
   # important
   "git",
   "stow",
-  "flatpak",
   # terminal stuff
   "fish",
   "zsh",

@@ -13,7 +13,7 @@ Make sure these are installed:
 - flatpak
 
 ```shell
-sudo pacman -S git rust base-devel
+sudo pacman -S git rustup base-devel
 
 # paru
 git clone https://aur.archlinux.org/paru.git
