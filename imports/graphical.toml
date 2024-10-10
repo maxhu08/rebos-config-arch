@@ -1,6 +1,7 @@
 [managers.system]
 items = [
   "feh",
+  "waypaper",
   "picom-simpleanims-git",
   "materia-gtk-theme",
   "bibata-cursor-theme-bin",
