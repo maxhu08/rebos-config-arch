@@ -32,6 +32,9 @@ sudo pacman -S flatpak
 # clone rebos config and gen current build
 cargo install rebos
 git clone https://github.com/maxhu08/rebos-config-arch ~/.config/rebos
+rebos setup
+rebos config init
+rebos gen commit "initial"
 rebos gen current build
 ```
 
