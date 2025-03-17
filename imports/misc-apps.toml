@@ -3,5 +3,6 @@ items = [
   "visual-studio-code-bin",
   "nemo",
   "brave-bin",
-  "pavucontrol"
+  "pavucontrol",
+  "spotify"
 ]
