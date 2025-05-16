@@ -1,0 +1,13 @@
+[managers.system]
+items = [
+  "hyprland",
+  "hpyrlock",
+  "hyprcursor",
+  "swww",
+  "waybar",
+  "wlogout",
+  "wl-clipboard",
+  "wofi",
+  "wlrobs-hg"
+]
+
