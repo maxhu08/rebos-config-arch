@@ -1,0 +1,7 @@
+[managers.system]
+items = [
+  "bluez",
+  "bluez-utils",
+  "blueman"
+]
+
