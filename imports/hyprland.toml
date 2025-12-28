@@ -8,6 +8,7 @@ items = [
   "wlogout",
   "wl-clipboard",
   "wofi",
+  "wofi-emoji",
   "wlrobs-hg"
 ]
 
