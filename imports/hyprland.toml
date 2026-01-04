@@ -9,6 +9,7 @@ items = [
   "wl-clipboard",
   "wofi",
   "wofi-emoji",
-  "wlrobs-hg"
+  "wlrobs-hg",
+  "wlsunset"
 ]
 
