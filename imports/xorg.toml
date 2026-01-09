@@ -6,5 +6,5 @@ items = [
   "xf86-input-libinput",
   "xorg-xrdb",
   "xorg-xset",
-  "libxinerama"
+  "libxinerama",
 ]

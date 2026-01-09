@@ -7,6 +7,9 @@ imports = [
   "terminal",
   "fonts",
   "xorg",
+  "xorg-extra",
+  "wayland",
+  "hyprland",
   "languages",
   "graphical",
   "misc-apps",
@@ -19,7 +22,7 @@ items = [
 
 [managers.flatpak]
 items = [
-  "org.polymc.PolyMC"
+  # "org.polymc.PolyMC"
 ]
 
 # Packages to be installed via Cargo.

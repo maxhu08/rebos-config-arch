@@ -1,15 +1,9 @@
 [managers.system]
 items = [
   "hyprland",
-  "hpyrlock",
+  "hyprlock",
   "hyprcursor",
-  "swww",
-  "waybar",
-  "wlogout",
-  "wl-clipboard",
-  "wofi",
-  "wofi-emoji",
-  "wlrobs-hg",
-  "wlsunset"
+  # "wlsunset" hyprsunset is preferred
+  "hyprsunset"
 ]
 

@@ -1,0 +1,13 @@
+[managers.system]
+items = [
+  "waypaper",
+  "swww",
+  "waybar",
+  "wlogout",
+  "wl-clipboard",
+  "wofi",
+  "wofi-emoji",
+  "wlrobs-hg"
+]
+
+

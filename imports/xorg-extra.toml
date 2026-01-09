@@ -1,0 +1,6 @@
+[managers.system]
+items = [
+  "feh",
+  "picom-simpleanims-git"
+]
+
